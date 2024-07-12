@@ -1,3 +1,4 @@
+import ErrorePage from './pages/ErrorePage';
 import GameDetailPage from './pages/GameDetailPage';
 import HomePage from './pages/HomePage';
 import Layout from './pages/Layout';
@@ -7,6 +8,7 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <Layout />,
+    errorElement: <ErrorePage />,
     children: [
       {
         index: true,
