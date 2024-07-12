@@ -29,6 +29,11 @@ getAll = (config: AxiosRequestConfig) => {
   . then((response) => response.data);
 }
 
+get=(id: number | string) => {
+  return axiosInstance
+  .get<T>(this.endpoint +'/' + id)
+  .then((response) => response.data);
+}
 }
 
 export default APIClient;
