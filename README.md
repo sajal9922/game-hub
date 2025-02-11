@@ -2,6 +2,10 @@
 
 Game Hub is a web application built with React and TypeScript that allows users to browse and search for video games. The application provides detailed information about each game, including trailers, screenshots, genres, platforms, and critic scores.
 
+## Live Site
+
+Check out the live site [here](https://game-hub-eight-olive.vercel.app/).
+
 ## Features
 
 - **Browse Games**: View a list of games with their details.
@@ -38,8 +42,7 @@ Game Hub is a web application built with React and TypeScript that allows users 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/game-hub.git
-   cd game-hub
+   git clone https://github.com/sajal9922/game-hub.git
    ```
 2. Install dependencies:
    ```sh
