@@ -4,6 +4,8 @@ Game Hub is a web application built with React and TypeScript that allows users 
 
 ## Live Site
 
+<img src="https://www.canva.com/design/DAGZo3IXEIc/WvseW9hRLz6KhtYpIu1iGA/view?utm_content=DAGZo3IXEIc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6c444ce03" alt="Project Preview" width="500" height="300">
+
 Check out the live site [here](https://game-hub-eight-olive.vercel.app/).
 
 ## Features
