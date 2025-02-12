@@ -33,6 +33,17 @@ Check out the live site [here](https://game-hub-eight-olive.vercel.app/).
 - **React Icons**: Include popular icons in your React projects easily with react-icons.
 - **Infinite Scroll Component**: An infinite scroll component for React.
 
+## API
+
+This application uses the [RAWG Video Games Database API](https://rawg.io/apidocs) to fetch data about video games. The API provides detailed information about games, including:
+
+- Game details (name, description, release date, etc.)
+- Platforms
+- Genres
+- Publishers
+- Trailers
+- Screenshots
+
 ## Getting Started
 
 ### Prerequisites
